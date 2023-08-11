@@ -19,6 +19,8 @@
     "@angular/platform-browser": "~11.2.10",
     "@angular/platform-browser-dynamic": "~11.2.10",
     "@angular/router": "~11.2.10",
+    "@ngrx/store": "^8.5.1",
+    "@ngrx/store-devtools": "^8.6.0",
     "rxjs": "~6.6.0",
     "todomvc-app-css": "^2.4.2",
     "tslib": "^2.0.0",
